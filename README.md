@@ -1,5 +1,5 @@
 # Server-Client-Communication
-This is Server-Client communication project based on TCP protocol and UDP protocol.
+This is a Server-Client-Communication project based on TCP protocol and UDP protocol.
 
 ## How to use and run
 -Download the entire project, run your terminal in linux and navigate to downloaded folder.<br/>
