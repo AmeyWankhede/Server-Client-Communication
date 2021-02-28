@@ -9,4 +9,4 @@ This is Server-Client communication project based on TCP protocol and UDP protoc
 -run Client with name of server and server port using command.<br/>
 
 ## Tech Stack used
--All the functionalities offered by the C language and socket programming libraries.
+-All the functionalities offered by the C language and the socket programming libraries.
